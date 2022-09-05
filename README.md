@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Visit me at [my website](https://itai.fish)
+
+![](https://raw.githubusercontent.com/itaifish/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/itaifish/github-stats/master/generated/overview.svg#gh-light-mode-only)
