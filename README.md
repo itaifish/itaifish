@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Visit me at [my website](https://itai.fish)
 
-![](https://raw.githubusercontent.com/itaifish/github-stats/cf4dcd1cd119525bb8b9b26e1b0cf702fb537bb2/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/itaifish/github-stats/cf4dcd1cd119525bb8b9b26e1b0cf702fb537bb2/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/itaifish/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/itaifish/github-stats/master/generated/overview.svg#gh-light-mode-only)
